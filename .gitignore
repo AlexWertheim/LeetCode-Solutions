@@ -1,0 +1,19 @@
+
+
+# project file extensions
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+*.rc
+resource.h
+
+# directories
+
+.vs/
+x64/
+Debug/
+MergeSort/
+Unordered Map Practice/
