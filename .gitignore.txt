@@ -1,0 +1,14 @@
+
+
+# project file extensions
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# directories
+
+.vs/
+x64/
+Debug/
