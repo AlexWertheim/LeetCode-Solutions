@@ -11,7 +11,7 @@ struct ListNode {
 	ListNode(int x, ListNode* next) : val(x), next(next) {}
 };
 
-// Slow boye
+// Slow 
 bool isPalindrome(ListNode* head) {
 	ListNode* iter = head;
 	int len = 0;
@@ -63,7 +63,7 @@ bool isPalindrome(ListNode* head) {
 	return true;
 }
 
-/* Even more bullshitty slow boye
+/* Even slower
 bool isPalindrome(ListNode* head) {
 	vector<int> nums;
 	int len = 0;
